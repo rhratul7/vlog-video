@@ -22,6 +22,7 @@ p {
 
 section {
     display: flex;
+    margin-bottom: 100PX;
 }
 
 .ratul33 {
@@ -41,10 +42,17 @@ section {
     color: aliceblue;
     border-radius: 10px;
     font-size: 20px;
+    margin-top: 50PX;
 
 }
 
 .banner-flower {
     background-image: url(banner5.avif);
     background-repeat: no-repeat;
+}
+
+.section-2-banner {
+    background-image: url(banner5.avif);
+
+
 }
