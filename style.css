@@ -1,0 +1,50 @@
+body {
+    font-family: 'Edu SA Beginner', cursive;
+    margin: 0px;
+
+
+}
+
+.ratul {
+
+    color: rgb(242, 8, 222);
+
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(184, 2, 2);
+}
+
+p {
+    text-align: justify;
+}
+
+section {
+    display: flex;
+}
+
+.ratul33 {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.ratul33 img {
+    width: 100%;
+}
+
+.link-batton {
+    background-image: linear-gradient(rgb(7, 25, 224), rgb(13, 237, 10));
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: 700;
+    color: aliceblue;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+
+.banner-flower {
+    background-image: url(banner5.avif);
+    background-repeat: no-repeat;
+}
