@@ -20,14 +20,32 @@ p {
     text-align: justify;
 }
 
-section {
+.display {
     display: flex;
     margin-bottom: 100PX;
 }
 
+.iloveu {
+    display: flex;
+
+
+}
+
+
+
 .ratul33 {
     width: 50%;
     padding-left: 5%;
+}
+
+.tiktok {
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 15%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    padding-right: 5px;
+    border-radius: 10px;
 }
 
 .ratul33 img {
@@ -55,4 +73,26 @@ section {
     background-image: url(banner5.avif);
 
 
+}
+
+.boton {
+    margin-top: 10px;
+}
+
+#love5 {
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#mylove {
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(157, 255, 0), rgb(255, 13, 0));
+    border-image-slice: 1;
+
+}
+
+footer p {
+    font-size: 30px;
+    text-align: center;
 }
